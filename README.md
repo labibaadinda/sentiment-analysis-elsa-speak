@@ -8,8 +8,7 @@ Model yang diterapkan dalam proyek ini menggunakan **Support Vector Machine (SVM
 ## 🚀 Tujuan Proyek
 - Menganalisis sentimen yang terkandung dalam ulasan pengguna aplikasi ELSA SPEAK.
 - Mengidentifikasi aspek **positif** dan **negatif** dari pengalaman pengguna.
-- Membantu tim pengembang ELSA SPEAK 💡 untuk memperoleh wawasan dari ulasan pengguna.
-- Meningkatkan layanan dan pengalaman pengguna berdasarkan hasil analisis sentimen.
+- Mendapat insight dari ulasan pengguna.
 
 ## 📂 Struktur Proyek
 ```
