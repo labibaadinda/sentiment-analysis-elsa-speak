@@ -15,7 +15,7 @@ Model yang diterapkan dalam proyek ini menggunakan **Support Vector Machine (SVM
 sentiment-analysis-elsa-speak/       # Main project directory
     ├── PelatihanModel.ipynb         # Notebook untuk pelatihan dan evaluasi model analisis sentimen menggunakan SVM
     ├── requirements.txt             # File yang berisi daftar pustaka yang diperlukan untuk menjalankan proyek
-    ├── reviews.csv                  # Dataset berisi ulasan pengguna aplikasi ELSA SPEAK
+    ├── reviews.csv                  # Dataset berisi ulasan pengguna aplikasi ELSA SPEAK yang didapat dari scraping data di ScrapingData.ipynb  
     ├── ScrapingData.ipynb           # Notebook untuk pengambilan data ulasan pengguna dari sumber eksternal (web scraping)
     └── README.md                    # Project documentation 
 ```
