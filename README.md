@@ -30,8 +30,7 @@ sentiment-analysis-elsa-speak/       # Main project directory
 1. **Pengumpulan Data**: Mengumpulkan ulasan dari pengguna ELSA SPEAK dari berbagai sumber, seperti aplikasi resmi dan platform lain yang relevan.
 2. **Pembersihan Data**: Proses pembersihan data meliputi penghapusan karakter yang tidak relevan, stopwords, dan normalisasi teks.
 3. **Tokenisasi**: Proses memecah teks ulasan menjadi kata-kata atau token yang lebih kecil agar dapat dianalisis lebih lanjut.
-4. **Penerapan Model Pembelajaran Mesin (SVM)**:
-   - **Support Vector Machine (SVM)** digunakan untuk melatih model klasifikasi sentimen berdasarkan data pelatihan.
+4. **Penerapan Model Pembelajaran Mesin (SVM)**: Model digunakan untuk melatih model klasifikasi sentimen berdasarkan data pelatihan.
 5. **Evaluasi Model**: Model diuji dengan menggunakan metrik seperti **accuracy**, **precision**, **recall**, dan **F1-score** untuk memastikan performa yang optimal dalam mengklasifikasikan sentimen.
 6. **Interpretasi Hasil**: Analisis sentimen dikelompokkan menjadi **positif**, **negatif**, dan **netral** untuk memberikan gambaran menyeluruh tentang feedback pengguna.
 7. **Visualisasi Hasil**: Menggunakan grafik dan visualisasi untuk menunjukkan distribusi sentimen dan memberikan wawasan yang lebih mudah dipahami.
