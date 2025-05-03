@@ -25,7 +25,7 @@ sentiment-analysis-elsa-speak/       # Main project directory
 - 📓 **PelatihanModel.ipynb**: Jupyter notebook untuk menerapkan teknik pembelajaran mesin dalam pelatihan model **SVM** untuk analisis sentimen, termasuk pembersihan data, tokenisasi, pelatihan model, dan evaluasi model.
 - 📑 **requirements.txt**: File yang berisi daftar semua pustaka Python yang dibutuhkan untuk menjalankan proyek ini, seperti `pandas`, `scikit-learn`, `nltk`, dll.
 - 📊 **reviews.csv**: File CSV yang berisi ulasan dari pengguna aplikasi ELSA SPEAK yang digunakan sebagai dataset untuk analisis sentimen.
-- 💻 **ScrapingData.ipynb**: Jupyter notebook yang berisi kode untuk melakukan web scraping dan mengumpulkan data ulasan pengguna dari situs web atau platform lain.
+- 💻 **ScrapingData.ipynb**: Jupyter notebook yang berisi kode untuk melakukan web scraping dan mengumpulkan data ulasan pengguna dari situs web playstore.
 
 ## 🛠️ Langkah-langkah dalam Proyek
 1. 📥 **Pengumpulan Data**: Mengumpulkan ulasan dari pengguna ELSA SPEAK dari berbagai sumber, seperti aplikasi resmi dan platform lain yang relevan.
@@ -37,11 +37,11 @@ sentiment-analysis-elsa-speak/       # Main project directory
 6. 📈 **Interpretasi Hasil**: Analisis sentimen dikelompokkan menjadi **positif**, **negatif**, dan **netral** untuk memberikan gambaran menyeluruh tentang feedback pengguna.
 7. 📉 **Visualisasi Hasil**: Menggunakan grafik dan visualisasi untuk menunjukkan distribusi sentimen dan memberikan wawasan yang lebih mudah dipahami.
 
-## ⚙️ Teknologi dan Alat yang Digunakan
+## ⚙️ Teknologi dan Tools
 - 🐍 **Python**: Bahasa pemrograman yang digunakan untuk mengimplementasikan analisis sentimen.
 - 📊 **Pandas**: Untuk manipulasi data dan pembersihan dataset.
 - ⚙️ **Scikit-learn**: Untuk implementasi model pembelajaran mesin (SVM).
-- 📚 **NLTK / SpaCy**: Untuk pembersihan data teks, tokenisasi, dan penghapusan stopwords.
+- 📚 **NLTK / Sastrawi**: Untuk pembersihan data teks, tokenisasi, dan penghapusan stopwords.
 - 📈 **Matplotlib / Seaborn**: Untuk visualisasi hasil analisis.
 
 ## 📚 Metodologi
@@ -63,7 +63,8 @@ sentiment-analysis-elsa-speak/       # Main project directory
 2. **Menjalankan Skrip**:
    - Jalankan skrip utama untuk pembersihan data dan pemodelan sentimen menggunakan SVM.
    ```bash
-   python sentiment_analysis.py
+   jupyter notebook PelatihanModel.ipynb
+   jupyter notebook ScrapingData.ipynb
    ```
 
 3. **Hasil dan Visualisasi**:
