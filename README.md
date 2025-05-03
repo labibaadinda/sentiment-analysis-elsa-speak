@@ -54,7 +54,7 @@ sentiment-analysis-elsa-speak/       # Main project directory
 ## 🏆 Hasil yang Diharapkan
 - Identifikasi dan klasifikasi sentimen dalam ulasan pengguna aplikasi ELSA SPEAK.
 - Penyajian analisis yang jelas mengenai tingkat kepuasan pengguna melalui analisis sentimen.
-- Rekomendasi untuk pengembangan produk berdasarkan umpan balik dari pengguna.
+
 
 ## 🖥️ Cara Menjalankan Proyek
 1. **Persiapan Lingkungan**:
