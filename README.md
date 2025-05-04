@@ -62,7 +62,6 @@ sentiment-analysis-elsa-speak/       # Main project directory
    - Jalankan skrip utama untuk pembersihan data dan pemodelan sentimen menggunakan SVM.
    ```bash
    jupyter notebook PelatihanModel.ipynb
-   jupyter notebook ScrapingData.ipynb
    ```
 
 3. **Hasil dan Visualisasi**:
